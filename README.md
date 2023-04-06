@@ -3,7 +3,7 @@
 
 ### About
 
-When using the Send to Kindle service to send .epub documents to your Kindle, you may encounter encoding issues in the file converted by Amazon. This happens because not every .epub file comes with the encoding information embedded. When this happens, Amazon assumes that the uploaded file is encoded with ISO-8859-1 and causes artifacts in the content, for example: â€œ.
+When using the [Send to Kindle](https://www.amazon.com/sendtokindle) service to send .epub documents to your Kindle, you may encounter encoding issues in the file converted by Amazon. This happens because not every .epub file comes with the encoding information embedded. When this happens, Amazon assumes that the uploaded file is encoded with ISO-8859-1 and causes artifacts in the content, for example: â€œ.
 
 This utility is available at Vercel: https://send-to-kindle-fixer.vercel.app
 
@@ -18,4 +18,4 @@ This utility is available at Vercel: https://send-to-kindle-fixer.vercel.app
 - Remove stray tags with no source field.
 
 ### What next?
-Go to Send to Kindle and check if the problem is resolved.
+Go to [Send to Kindle](https://www.amazon.com/sendtokindle) and check if the problem is resolved.
